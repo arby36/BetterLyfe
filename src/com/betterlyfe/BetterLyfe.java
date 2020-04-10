@@ -1,8 +1,7 @@
 package com.betterlyfe;
 
-public class Main {
-
+public class BetterLyfe {
     public static void main(String[] args) {
-	    
+        System.out.print("Hello World!");
     }
 }
